@@ -1,3 +1,3 @@
-# Any-Jam Game Jam Prompt Generator
+# Any-Jam
 
 This is a website im making 
